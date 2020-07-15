@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+**Jae-Jin is a person who is developing with small base as well.
+Known as learner, writer, translator, developer and illustrator.**
+
 ***Thanks for visiting my GitHub profile, it's great to meet you here! 😊***
 
 <!--
