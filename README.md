@@ -15,7 +15,7 @@ Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India
 
 - 🔭 I’m currently working on my project [Lida Assistant](#)
 - 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [Github Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- 👯 I’m looking to collaborate on [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
 - 💬 Ask me about anything [here](https://github.com/kadantte/kadantte/issues)
 
 **Languages and Tools:**  
