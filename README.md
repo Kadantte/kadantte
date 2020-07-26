@@ -1,17 +1,17 @@
 ### Hi there, I'm [Jae Jin!](https://about.kadantte.moe) 👋
 
 <a href="https://twitter.com/kadantte">
-  <img align="left" alt="Anurag Hazra | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
+  <img align="left" alt="Jae Jin's | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
 <a href="https://discord.gg/vYEssVG">
-  <img align="left" alt="Anurag's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
+  <img align="left" alt="Jae Jin's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
 <br />
 <br />
 
-Hi, I'm Anurag Hazra, a passionate self-taught frontEnd web developer from India.
+Hi, I'm Jae Jin, a passionate self-taught front-end / back-end web developer.
 
 - 🔭 I’m currently working on my project [Lida Assistant](#)
 - 🌱 I’m currently learning GraphQL & Typescript
