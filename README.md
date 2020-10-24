@@ -35,6 +35,8 @@ Hi, I'm Jae Jin, a passionate self-taught front-end / back-end web developer.
   <img align="center" src="https://stats.kadantte.moe/api?username=kadantte&show_icons=true&theme=merko" alt="Jae Jin's github stats" />
 </a>
 
+<br />
+
 <a href="https://komarev.com/ghpvc/?username=Kadanttehttps://komarev.com/ghpvc/?username=Kadantte">
   <img align="center" src="https://komarev.com/ghpvc/?username=Kadantte" />
 </a>
