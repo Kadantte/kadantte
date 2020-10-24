@@ -30,14 +30,9 @@ Hi, I'm Jae Jin, a passionate self-taught front-end / back-end web developer.
 
 
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github!
-
 
 <a href="https://github.com/Kadantte/github-readme-stats">
   <img align="center" src="https://stats.kadantte.moe/api?username=kadantte&show_icons=true&theme=merko" alt="Jae Jin's github stats" />
-</a>
-<a href="https://github.com/Kadantte/github-readme-stats">
-  <img align="center" src="https://stats.kadantte.moe/api/top-langs/?username=kadantte&layout=compact&theme=merko" />
 </a>
 
 <a href="https://komarev.com/ghpvc/?username=Kadanttehttps://komarev.com/ghpvc/?username=Kadantte">
