@@ -4,7 +4,7 @@
   <img align="left" alt="Jae Jin's | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
 </a>
 
-<a href="https://discord.gg/vYEssVG">
+<a href="https://discord.gg/KbYvMBp">
   <img align="left" alt="Jae Jin's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 </a>
 
