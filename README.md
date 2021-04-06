@@ -13,7 +13,7 @@
 
 Hi, I'm Jae Jin, a passionate self-taught front-end / back-end web developer.
 
-- 🔭 I’m currently working on my project [Lida Assistant](https://github.com/Kadantte/Lida-Assistant)
+- 🔭 I’m currently working on my project [OPPA TECH](https://github.com/Oppa-TECH/oppa.tech)
 - 🌱 I’m currently learning GraphQL & Typescript
 - 👯 I’m looking to collaborate on [DeepCreamPy](https://github.com/deeppomf/DeepCreamPy)
 - 💬 Ask me about anything [here](https://github.com/kadantte/kadantte/issues)
