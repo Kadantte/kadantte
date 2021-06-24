@@ -1,4 +1,4 @@
-### Hi there, I'm [Jae Jin!](https://about.kadantte.moe) 👋
+### Hi there, I'm [Jae Jin!](https://kadantte.moe) 👋
 
 <a href="https://twitter.com/kadantte">
   <img align="left" alt="Jae Jin's | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
