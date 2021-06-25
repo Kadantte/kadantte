@@ -14,9 +14,8 @@
 Hi, I'm Jae Jin, a passionate self-taught front-end / back-end web developer.
 
 - 🔭 I’m currently working on my project [OPPA TECH](https://github.com/Oppa-TECH/oppa.tech) Private repo!
-- 🌱 [OPPA TECH](https://oppa.tech/) website
 - 🌱 I’m currently learning GraphQL & Typescript
-- 👯 I’m looking to collaborate on [DeepCreamPy](https://github.com/kadantte/DeepCreamPy)
+- 👯 I’m looking to collaborate on [HENT-AI](https://github.com/natethegreate/hent-AI)
 - 💬 Ask me about anything [here](https://github.com/kadantte/kadantte/issues)
 - 🍥 Contact me via Discord `Usui#0256`
 
