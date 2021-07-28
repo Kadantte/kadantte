@@ -26,8 +26,6 @@
 <p><b>     Thanks fow reading this     </b></p>
 </div>
 <br /><br />
-<br /><br />
-<br /><br />
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
