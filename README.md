@@ -31,7 +31,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" align="right">
+<img src="https://im7.ezgif.com/tmp/ezgif-7-6ecb8244e280.gif" align="right">
 </div>
 <div>
 <p align="center">
