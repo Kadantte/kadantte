@@ -110,6 +110,10 @@ most used Social Media >~< </p>
 <h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
 <div align="center">
 <img src="https://i.imgur.com/CVZLfwM.gif">
+<br><br>
+<p align="center">
+I want to thank <a href="https://github.com/PrincessAkira">@PrincessAkira</a> for this lovely readme also I want to thank <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">@alexandresanlim</a> for the badges.
+</p>
 </div>
 <hr>
 </div>
