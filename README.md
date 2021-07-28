@@ -30,7 +30,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://i.pinimg.com/originals/8d/4b/77/8d4b77c44b7a68c0fd609411e2c0ec3c.gif" align="right">
+<img src="https://i.pinimg.com/originals/e1/85/18/e18518c6d24257c6fb02e3c95a862d85.gif" align="right">
 </div>
 <div>
 <p align="center">
@@ -96,6 +96,15 @@
   />
   <img
     src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+  /><br />
+  <img
+    src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
+  />
+  <img
+    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
   />
   <br /><br />
 <br>
