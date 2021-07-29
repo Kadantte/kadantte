@@ -23,7 +23,7 @@
 <b>Working @:</b> | Oppa TECH |
 </li>
 <br>
-<p><b>     Thanks fow reading this     </b></p>
+<p><b>     Thanks for reading this     </b></p>
 </div>
 <br /><br />
 <div>
