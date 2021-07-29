@@ -29,7 +29,7 @@
 <div>
 <h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
 <p>
-<img src="https://im7.ezgif.com/tmp/ezgif-7-6ecb8244e280.gif" align="right">
+<img src="https://i.imgur.com/cz15XcX.gif" align="right">
 </div>
 <div>
 <p align="center">
