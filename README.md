@@ -112,7 +112,7 @@
 <br>
 <p align="center">Here are some of my <br>
 most used Social Media >~< </p>
-<p align="center"><a href="https://twitter.com/Kadantte" target="_blank"><img src="https://img.shields.io/badge/Kadantte-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.come/" target="_blank"><img src="https://img.shields.io/badge/Usui%230256-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
+<p align="center"><a href="https://twitter.com/Kadantte" target="_blank"><img src="https://img.shields.io/badge/Kadantte-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> <a href="https://discord.gg/ypXTheKQNz" target="_blank"><img src="https://img.shields.io/badge/Usui%230256-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
 <p align="center"><a href="https://kadantte.moe" target="_blank"><img src="https://img.shields.io/badge/Kadantte.moe-%239146FF.svg?&style=for-the-badge&logo=website&logoColor=white"/></a></p>
 </div>
 <br>
