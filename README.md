@@ -5,7 +5,7 @@
 <li>
 <b>Name:</b> Jae Jin</li>
 <li>
-<b>Loves:</b> Anime, Manga and games -///-
+<b>Loves:</b> Anime, Manga and games ¯\_(ツ)_/¯
 </li>
 <li>
 <b>Gender:</b> He/Him
