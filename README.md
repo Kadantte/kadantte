@@ -1,5 +1,3 @@
-[![Stand With Ukraine](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
-
 <body>
 <div>
 <h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
@@ -116,9 +114,6 @@ most used Social Media >~< </p>
 <div align="center">
 <img src="https://i.imgur.com/CVZLfwM.gif">
 <br><br>
-<p align="center">
-I want to thank <a href="https://github.com/PrincessAkira">@PrincessAkira</a> for this lovely readme also I want to thank <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile">@alexandresanlim</a> for the badges.
-</p>
 </div>
 <hr>
 </div>
