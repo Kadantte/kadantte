@@ -1,120 +1,162 @@
-<body>
-<div>
-<h2 align="center"> 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~ 🦊 </h2>
-<img src="https://i.imgur.com/PKjxuan.gif" align="right">
-<li>
-<b>Name:</b> Jae Jin</li>
-<li>
-<b>Loves:</b> Anime, Manga and games ¯\_(ツ)_/¯
-</li>
-<li>
-<b>Gender:</b> He/Him
-</li>
-<li>
-<b>Hobbys:</b> Tech Stuff, Graphic Design, Web Development, DevOps, Cyber Security
-</li>
-<li>
-<b>Working @:</b> | Oppa TECH |
-</li>
-<br>
-<p><b>     Thanks for reading this     </b></p>
-</div>
-<br /><br />
-<div>
-<h2 align="left">            ~ 📇 𝓚𝓷𝓸𝔀𝓵𝓮𝓭𝓰𝓮 📇 ~</h2>
-<p>
-<img src="https://i.imgur.com/cz15XcX.gif" align="right">
-</div>
-<div>
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen"
-  />
-  <img
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-  /><br />
-   <img
-    src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"
-  /><br />
-  <img
-    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-  />
-  <br />
-   <img
-    src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white"
-  /><br />
-  <img
-    src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Haskell-5D4F85?style=for-the-badge&logo=haskell&logoColor=white"
-  /><br />
-  <img
-    src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-  /><br />
-  <img
-    src="https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"
-  />
-  <img
-    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-  /><br />
-  <img
-    src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"
-  />
-  <img
-    src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"
-  />
-  <br /><br />
-<br>
-<h2>           📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h2>
-<img src="https://i.imgur.com/kk8AtGX.gif" align="right" width="373.5px" height="208.5px">
-<br>
-<p align="center">Here are some of my <br>
-most used Social Media >~< </p>
-<p align="center"><a href="https://kadantte.moe" target="_blank"><img src="https://img.shields.io/badge/Kadantte.moe-%239146FF.svg?&style=for-the-badge&logo=website&logoColor=white"/></a> <a href="https://discord.gg/96uswVQWT9" target="_blank"><img src="https://img.shields.io/badge/Apocalypse-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/></a></p>
- <p align="center"><a href="#" target="_blank"><img src="https://discord.c99.nl/widget/theme-3/259483398312034304.png"/></a></p>
-</div>
-<br>
-<div>
-<h2 align="center">💖 ~ 𝓣𝓱𝓪𝓷𝓴𝓼 𝓯𝓸𝓻 𝓻𝓮𝓪𝓭𝓲𝓷𝓰! ~ 💖</h2>
+<!-- ═══════════════════════ ⛩️ SAKURA NIGHT · KADANTTE ⛩️ ═══════════════════════ -->
+
 <div align="center">
-<img src="https://i.imgur.com/CVZLfwM.gif">
-<br><br>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Kadantte&fontSize=68&fontColor=FFFFFF&animation=fadeIn&desc=%E2%9B%A9%EF%B8%8F%20Is%20This%20the%20Door%20to%20Heaven%20or%20Hell%3F%20%E2%9B%A9%EF%B8%8F&descSize=18&descAlignY=75&fontAlignY=45" width="100%" />
 </div>
-<hr>
+
+<div align="center">
+  <a href="https://github.com/Kadantte">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=FF7EB6&center=true&vCenter=true&width=600&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%2C+I'm+Jae+Jin+%F0%9F%A6%8A;DevOps+%C3%97+Web+Dev+%C3%97+Cyber+Security;Self-Hosting+Everything+I+Touch;Always+yelling%2C+never+shuts+up+about+anime" alt="Typing SVG" />
+  </a>
 </div>
+
+<br />
+
+<!-- ═══════════════════════ 🦊 ABOUT ═══════════════════════ -->
+
+<img src="https://i.imgur.com/PKjxuan.gif" align="right" height="200" />
+
+### 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~
+
+```yaml
+name:      Jae Jin
+location:  Republic of Korea 🇰🇷
+pronouns:  He/Him
+work:      Oppa TECH
+loves:     Anime · Manga · Games ¯\_(ツ)_/¯
+craft:     Tech Stuff · Graphic Design · Web Dev
+           DevOps · Self-Hosting · Cyber Security
+status:    🍑 always yelling, never shuts up about anime
+```
+
+<img src="https://img.shields.io/badge/Repos-1.4k-FF7EB6?style=flat-square&logo=github&logoColor=white&labelColor=1A1B27" /> <img src="https://img.shields.io/github/followers/Kadantte?style=flat-square&logo=github&logoColor=white&color=B388EB&labelColor=1A1B27" /> <img src="https://img.shields.io/badge/Stars_Given-5k%2B-F72585?style=flat-square&logo=github&logoColor=white&labelColor=1A1B27" /> <img src="https://komarev.com/ghpvc/?username=Kadantte&style=flat-square&color=FF7EB6&label=Views" />
+
+<br clear="right" />
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
-</body>
+
+<!-- ═══════════════════════ ⚔️ ARSENAL ═══════════════════════ -->
+
+<h3 align="center">⚔️ ~ 𝓜𝔂 𝓐𝓻𝓼𝓮𝓷𝓪𝓵 ~ ⚔️</h3>
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,nodejs,cs,cpp,java,kotlin,haskell,lua&theme=dark" /><br />
+  <img src="https://skillicons.dev/icons?i=html,css,tensorflow,mongodb,redis,postgres,graphql,firebase,git,docker&theme=dark" /><br />
+  <img src="https://skillicons.dev/icons?i=linux,nginx,cloudflare,aws,heroku,replit,githubactions,bash,vscode,idea&theme=dark" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ═══════════════════════ 📊 STATS ═══════════════════════ -->
+
+<h3 align="center">📊 ~ 𝓖𝓲𝓽𝓗𝓾𝓫 𝓢𝓽𝓪𝓽𝓼 ~ 📊</h3>
+
+<div align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Kadantte&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=1A1B27&title_color=FF7EB6&icon_color=B388EB&text_color=C9D1D9&ring_color=F72585" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kadantte&layout=compact&langs_count=8&hide_border=true&bg_color=1A1B27&title_color=FF7EB6&text_color=C9D1D9" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Kadantte&hide_border=true&background=1A1B27&ring=F72585&fire=FF7EB6&currStreakLabel=B388EB&currStreakNum=FFFFFF&sideNums=FFFFFF&sideLabels=B388EB&dates=C9D1D9" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Kadantte&bg_color=1A1B27&color=B388EB&line=F72585&point=FF7EB6&area=true&hide_border=true" width="95%" />
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Kadantte&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" width="95%" />
+</div>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/❄️_Arctic_Code_Vault-1A1B27?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/🦈_Pull_Shark_×3-1A1B27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/👥_Pair_Extraordinaire_×2-1A1B27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/⚡_Quickdraw-1A1B27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🎲_YOLO-1A1B27?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🛠️_Developer_Program-1A1B27?style=for-the-badge" />
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ═══════════════════════ 📌 PROJECTS ═══════════════════════ -->
+
+<h3 align="center">📌 ~ 𝓕𝓮𝓪𝓽𝓾𝓻𝓮𝓭 𝓟𝓻𝓸𝓳𝓮𝓬𝓽𝓼 ~ 📌</h3>
+
+<div align="center">
+  <a href="https://github.com/Kadantte/Kurumi">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kadantte&repo=Kurumi&hide_border=true&bg_color=1A1B27&title_color=FF7EB6&icon_color=B388EB&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/Kadantte/Candy-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kadantte&repo=Candy-website&hide_border=true&bg_color=1A1B27&title_color=FF7EB6&icon_color=B388EB&text_color=C9D1D9" />
+  </a>
+  <br />
+  <a href="https://github.com/Kadantte/DeepLearningAnimePapers">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kadantte&repo=DeepLearningAnimePapers&hide_border=true&bg_color=1A1B27&title_color=FF7EB6&icon_color=B388EB&text_color=C9D1D9" />
+  </a>
+  <a href="https://github.com/Kadantte/Suwayomi-Server">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Kadantte&repo=Suwayomi-Server&hide_border=true&bg_color=1A1B27&title_color=FF7EB6&icon_color=B388EB&text_color=C9D1D9" />
+  </a>
+</div>
+
+<p align="center">
+  ✨ Also contributing to <a href="https://github.com/Drutol/MALClient"><b>MALClient</b></a> — a MyAnimeList client for Windows 10 UWP & Android (381★)
+</p>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</div>
+
+<!-- ═══════════════════════ 🐍 SNAKE ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kadantte/Kadantte/output/github-snake-dark.svg" alt="contribution snake" width="95%" />
+</div>
+
+<!-- ═══════════════════════ 📝 CONTACT ═══════════════════════ -->
+
+<h3 align="center">📝 ~ 𝓒𝓸𝓷𝓽𝓪𝓬𝓽 𝓶𝓮 ~ 📝</h3>
+
+<img src="https://i.imgur.com/kk8AtGX.gif" align="right" width="340" />
+
+<p align="center">Here are some of my most used Social Media >~<</p>
+
+<p align="left">
+  <a href="https://kadantte.moe" target="_blank"><img src="https://img.shields.io/badge/Kadantte.moe-FF7EB6?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=1A1B27" /></a>
+  <br /><br />
+  <a href="https://discord.gg/96uswVQWT9" target="_blank"><img src="https://img.shields.io/badge/Apocalypse-B388EB?style=for-the-badge&logo=discord&logoColor=white&labelColor=1A1B27" /></a>
+  <br /><br />
+  <a href="https://twitter.com/Kadantte" target="_blank"><img src="https://img.shields.io/badge/@Kadantte-F72585?style=for-the-badge&logo=x&logoColor=white&labelColor=1A1B27" /></a>
+  <br /><br />
+  <a href="https://keybase.io/kadantte" target="_blank"><img src="https://img.shields.io/badge/Keybase-33A0FF?style=for-the-badge&logo=keybase&logoColor=white&labelColor=1A1B27" /></a>
+  <br /><br />
+  <a href="https://list.kadantte.moe" target="_blank"><img src="https://img.shields.io/badge/Anime_Watchlist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white&labelColor=1A1B27" /></a>
+  <a href="https://orcid.org/0009-0004-7579-0729" target="_blank"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white&labelColor=1A1B27" /></a>
+</p>
+
+<br clear="right" />
+
+<div align="center">
+  <a href="#"><img src="https://discord.c99.nl/widget/theme-3/259483398312034304.png" /></a>
+</div>
+
+<!-- ═══════════════════════ 💖 FOOTER ═══════════════════════ -->
+
+<div align="center">
+  <img src="https://i.imgur.com/CVZLfwM.gif" />
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&section=footer&text=%F0%9F%92%96%20Thanks%20for%20reading!%20%F0%9F%92%96&fontSize=28&fontColor=FFFFFF&fontAlignY=72" width="100%" />
+</div>
