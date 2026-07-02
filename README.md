@@ -1,7 +1,7 @@
 <!-- ═══════════════════════ ⛩️ SAKURA NIGHT · KADANTTE ⛩️ ═══════════════════════ -->
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&customColorList=12,20,24&text=Kadantte&fontSize=68&fontColor=FFFFFF&animation=fadeIn&desc=%E2%9B%A9%EF%B8%8F%20Is%20This%20the%20Door%20to%20Heaven%20or%20Hell%3F%20%E2%9B%A9%EF%B8%8F&descSize=18&descAlignY=75&fontAlignY=45" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1A1B27,35:7B2CBF,70:F72585,100:FF7EB6&text=Kadantte%20%E2%9B%A9%EF%B8%8F&fontSize=68&fontColor=FFFFFF&animation=fadeIn&desc=%E2%9B%A9%EF%B8%8F%20Is%20This%20the%20Door%20to%20Heaven%20or%20Hell%3F%20%E2%9B%A9%EF%B8%8F&descSize=18&descAlignY=75&fontAlignY=45" width="100%" />
 </div>
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 <!-- ═══════════════════════ 🦊 ABOUT ═══════════════════════ -->
 
-<img src="https://i.imgur.com/PKjxuan.gif" align="right" height="200" />
+<img src="https://i.imgur.com/PKjxuan.gif" align="right" height="270" />
 
 ### 🦊 ~ 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮 ~
 
@@ -147,9 +147,14 @@ status:    🍑 always yelling, never shuts up about anime
 
 <br clear="right" />
 
+<br />
+
 <div align="center">
   <a href="#"><img src="https://discord.c99.nl/widget/theme-3/259483398312034304.png" /></a>
 </div>
+
+<br />
+<br />
 
 <!-- ═══════════════════════ 💖 FOOTER ═══════════════════════ -->
 
@@ -158,5 +163,5 @@ status:    🍑 always yelling, never shuts up about anime
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=gradient&customColorList=12,20,24&section=footer&text=%F0%9F%92%96%20Thanks%20for%20reading!%20%F0%9F%92%96&fontSize=28&fontColor=FFFFFF&fontAlignY=72" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF7EB6,30:F72585,65:7B2CBF,100:1A1B27&section=footer&text=%F0%9F%92%96%20Thanks%20for%20reading!%20%F0%9F%92%96&fontSize=28&fontColor=FFFFFF&fontAlignY=72" width="100%" />
 </div>
