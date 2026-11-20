@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1320" height="274" viewBox="0 0 1320 274" role="img" aria-labelledby="title desc">
+<title id="title">Kadantte — Shiori-chan Concept A Fuji Night achievements and craft</title>
+<desc id="desc">Sakura-inspired cards for Pull Shark times three, Pair Extraordinaire times two, open source, self-hosting and AI engineering.</desc>
+<defs>
+<linearGradient id="sky" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#12152d"/><stop offset=".58" stop-color="#26214a"/><stop offset="1" stop-color="#473063"/></linearGradient>
+<linearGradient id="edge"><stop stop-color="#b9a2fa"/><stop offset="1" stop-color="#f4a8d6"/></linearGradient>
+<linearGradient id="gold"><stop stop-color="#ffe6a1"/><stop offset="1" stop-color="#ef9ebd"/></linearGradient>
+<linearGradient id="mount" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#a3a4d9"/><stop offset="1" stop-color="#595486"/></linearGradient>
+</defs>
+<rect x="1" y="1" width="1318" height="272" rx="22" fill="url(#sky)" stroke="url(#edge)" stroke-width="2"/>
+<circle cx="1200" cy="40" r="18" fill="#fff0df" opacity=".65"/>
+<path d="M720 190 L865 63 L1000 190 Z" fill="url(#mount)" opacity=".23"/><path d="M827 96 L865 63 L905 101 L880 96 L865 86 L849 99 Z" fill="#f8edff" opacity=".3"/>
+<g fill="#f8b1d9" opacity=".58"><circle cx="89" cy="33" r="3"/><circle cx="233" cy="37" r="2"/><circle cx="659" cy="28" r="3"/><circle cx="1078" cy="24" r="3"/><circle cx="1253" cy="92" r="2"/></g>
+<text x="35" y="32" fill="#ffbde1" font-family="Arial,Helvetica,sans-serif" font-size="15" letter-spacing="3" font-weight="bold">KADANTTE / FUJI NIGHT</text>
+<text x="1285" y="32" text-anchor="end" fill="#b7e2e9" font-family="Arial,Helvetica,sans-serif" font-size="12" letter-spacing="2">SAKURA ACHIEVEMENTS</text>
+
+<rect x="31" y="53" width="241" height="196" rx="16" fill="#16172f" fill-opacity=".88" stroke="#8b75bd" stroke-opacity=".62"/>
+<circle cx="151.5" cy="105" r="32" fill="#3b315f" stroke="#b9a1f7" stroke-opacity=".52"/>
+<path d="M137.5 90 L146.5 102 L151.5 94 L156.5 102 L165.5 90" fill="none" stroke="#e9c77d" stroke-width="4" stroke-linecap="round"/>
+<circle cx="151.5" cy="110" r="13" fill="#e6b865" stroke="#ffebbb" stroke-width="2"/>
+<path d="M151.5 99 L154.5 107 L162.5 107 L156.5 112 L158.5 120 L151.5 116 L144.5 120 L146.5 112 L140.5 107 L148.5 107 Z" fill="#fff5d2"/>
+<text x="151.5" y="162" font-family="Arial,Helvetica,sans-serif" fill="#fff4fd" font-size="19" font-weight="bold" text-anchor="middle">Pull Shark</text>
+<text x="151.5" y="192" font-family="Arial,Helvetica,sans-serif" fill="#f5b2d6" font-size="14" font-weight="bold" text-anchor="middle">×3</text>
+<text x="151.5" y="228" font-family="Arial,Helvetica,sans-serif" fill="#adb2d3" font-size="10.5" letter-spacing=".9" text-anchor="middle">GITHUB ACHIEVEMENT</text>
+<rect x="286" y="53" width="241" height="196" rx="16" fill="#16172f" fill-opacity=".88" stroke="#8b75bd" stroke-opacity=".62"/>
+<circle cx="406.5" cy="105" r="32" fill="#3b315f" stroke="#b9a1f7" stroke-opacity=".52"/>
+<path d="M392.5 90 L401.5 102 L406.5 94 L411.5 102 L420.5 90" fill="none" stroke="#e9c77d" stroke-width="4" stroke-linecap="round"/>
+<circle cx="406.5" cy="110" r="13" fill="#e6b865" stroke="#ffebbb" stroke-width="2"/>
+<path d="M406.5 99 L409.5 107 L417.5 107 L411.5 112 L413.5 120 L406.5 116 L399.5 120 L401.5 112 L395.5 107 L403.5 107 Z" fill="#fff5d2"/>
+<text x="406.5" y="162" font-family="Arial,Helvetica,sans-serif" fill="#fff4fd" font-size="16.5" font-weight="bold" text-anchor="middle">Pair Extraordinaire</text>
+<text x="406.5" y="192" font-family="Arial,Helvetica,sans-serif" fill="#f5b2d6" font-size="14" font-weight="bold" text-anchor="middle">×2</text>
+<text x="406.5" y="228" font-family="Arial,Helvetica,sans-serif" fill="#adb2d3" font-size="10.5" letter-spacing=".9" text-anchor="middle">GITHUB ACHIEVEMENT</text>
+<rect x="541" y="53" width="241" height="196" rx="16" fill="#16172f" fill-opacity=".88" stroke="#8b75bd" stroke-opacity=".62"/>
+<circle cx="661.5" cy="105" r="32" fill="#3b315f" stroke="#b9a1f7" stroke-opacity=".52"/>
+<g transform="translate(661.5,105)" stroke="#f4b1dd" stroke-width="4" stroke-linecap="round" fill="none"><path d="M-8 -13 L-19 0 L-8 13 M8 -13 L19 0 L8 13 M4 -18 L-5 18"/></g>
+<text x="661.5" y="162" font-family="Arial,Helvetica,sans-serif" fill="#fff4fd" font-size="19" font-weight="bold" text-anchor="middle">Open Source</text>
+<text x="661.5" y="192" font-family="Arial,Helvetica,sans-serif" fill="#f5b2d6" font-size="14" font-weight="bold" text-anchor="middle">BUILD &amp; SHARE</text>
+<text x="661.5" y="228" font-family="Arial,Helvetica,sans-serif" fill="#adb2d3" font-size="10.5" letter-spacing=".9" text-anchor="middle">ENGINEERING FOCUS</text>
+<rect x="796" y="53" width="241" height="196" rx="16" fill="#16172f" fill-opacity=".88" stroke="#8b75bd" stroke-opacity=".62"/>
+<circle cx="916.5" cy="105" r="32" fill="#3b315f" stroke="#b9a1f7" stroke-opacity=".52"/>
+<g transform="translate(916.5,105)" stroke="#b5e3e5" stroke-width="3" fill="none"><rect x="-20" y="-16" width="40" height="13" rx="3"/><rect x="-20" y="4" width="40" height="13" rx="3"/><path d="M-12 -10 H-10 M-12 10 H-10 M-4 -10 H11 M-4 10 H11" stroke-linecap="round"/></g>
+<text x="916.5" y="162" font-family="Arial,Helvetica,sans-serif" fill="#fff4fd" font-size="19" font-weight="bold" text-anchor="middle">Self-Hosting</text>
+<text x="916.5" y="192" font-family="Arial,Helvetica,sans-serif" fill="#f5b2d6" font-size="14" font-weight="bold" text-anchor="middle">RUN &amp; SECURE</text>
+<text x="916.5" y="228" font-family="Arial,Helvetica,sans-serif" fill="#adb2d3" font-size="10.5" letter-spacing=".9" text-anchor="middle">ENGINEERING FOCUS</text>
+<rect x="1051" y="53" width="241" height="196" rx="16" fill="#16172f" fill-opacity=".88" stroke="#8b75bd" stroke-opacity=".62"/>
+<circle cx="1171.5" cy="105" r="32" fill="#3b315f" stroke="#b9a1f7" stroke-opacity=".52"/>
+<path d="M1171.5 81 L1177.5 100 L1196.5 105 L1177.5 112 L1171.5 129 L1165.5 112 L1146.5 105 L1165.5 100 Z" fill="none" stroke="#ffd89c" stroke-width="3" stroke-linejoin="round"/>
+<text x="1171.5" y="162" font-family="Arial,Helvetica,sans-serif" fill="#fff4fd" font-size="19" font-weight="bold" text-anchor="middle">AI Engineering</text>
+<text x="1171.5" y="192" font-family="Arial,Helvetica,sans-serif" fill="#f5b2d6" font-size="14" font-weight="bold" text-anchor="middle">LOCAL FIRST</text>
+<text x="1171.5" y="228" font-family="Arial,Helvetica,sans-serif" fill="#adb2d3" font-size="10.5" letter-spacing=".9" text-anchor="middle">ENGINEERING FOCUS</text>
+</svg>
