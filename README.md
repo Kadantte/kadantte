@@ -255,5 +255,5 @@ A good part of my work happens in private or self-hosted repositories, so this p
 <div align="center">
   <img src="https://i.imgur.com/CVZLfwM.gif" alt="Anime farewell GIF" />
   <p><i>Thanks for visiting. May your tests pass, your builds stay green, and Shiori-chan save every chapter.</i> 🌸</p>
-  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;color=0%3AEFB0DA%2C30%3AE58EC7%2C65%3A7265B2%2C100%3A17152D&amp;section=footer&amp;text=%F0%9F%92%96+Thanks+for+reading%21+%F0%9F%92%96&amp;fontSize=28&amp;fontColor=FFFFFF&amp;fontAlignY=72" alt="Sakura Fuji farewell banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&amp;height=140&amp;color=0%3AEFB0DA%2C30%3AE58EC7%2C65%3A7265B2%2C100%3A17152D&amp;section=footer&amp;fontSize=28&amp;fontColor=FFFFFF&amp;fontAlignY=72" alt="Sakura Fuji farewell banner" width="100%" />
 </div>
